@@ -5,7 +5,7 @@
 |   **Name**   |                강단단                |              하린포터                |              주허니                |
 | :----------: | :-----------------------------------: | :----------------------------------: | :---------------------------------------: | 
 | **Profile**  | <img src="https://avatars.githubusercontent.com/u/69593799?v=4" width="100" height="100"/>  |   <img src="https://avatars.githubusercontent.com/u/62701446?v=4" width="100" height="100"/>  |  <img src="https://avatars.githubusercontent.com/u/87613419?v=4" width="100" height="100"/>  |
-|   **Git**    | [GitHub](https://github.com/da010228) | [GitHub](https://github.com/rindingdong) | [GitHub](https://github.com/woneee99) |
+|   **Git**    | [GitHub](https://github.com/da010228) | [GitHub](https://github.com/rindingdong) | [GitHub](https://github.com/woneee99) |
 
 <br/>
 <br/>
