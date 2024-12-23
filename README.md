@@ -34,3 +34,7 @@
 | 아이템 3. private 생성자나 열거 타입으로 싱글턴임을 보증하라 | 2024.12.09 | [황주원](https://github.com/woneee99) |
 
 <br>
+
+| ITEM | 일정 | 담당자 |
+| --- | --- | --- |
+| 아이템 4. 인스턴스화를 막으려거든 private 생성자를 사용하라 | 2024.12.23 | [강다은](https://github.com/da010228), [이하린](https://github.com/rindingdong), [황주원](https://github.com/woneee99)|
